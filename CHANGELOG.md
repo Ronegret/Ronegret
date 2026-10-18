@@ -32,3 +32,9 @@ Registro de cambios de la organización y mejora del GitHub de Rodrigo Negrete.
 - READMEs on-brand y detallados en cada repo de proyecto.
 - Poner descripciones + topics en GitHub (ajuste manual del dueño).
 - Opcional: animación de contribuciones (snake) cuando se habiliten permisos de Actions.
+
+### Revisión visual final (verificada con capturas)
+- Galería de destacados con portadas reales: rodd (tarjeta branded), ZODI, AEM (portada elegante), Dedícalo Play (showcase 3 pasos), AIbueno, Kettelbro.
+- Sustituidas las capturas automáticas que salían en negro (WebGL/PWA) por imágenes de preview reales de cada repo.
+- Eliminado el grafo de actividad (servicio caído, 402) y el banner en blanco → perfil sin imágenes rotas.
+- README branded y consistente en los 20 repos (cabecera animada, overview, features, stack, demo, footer).
