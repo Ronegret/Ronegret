@@ -92,8 +92,38 @@ Browser PDF editor — edit, sign, highlight & compress, 100% client-side.
 </tr>
 </table>
 
+<details>
+<summary><b>🧩 More products, case studies & lab experiments (20+)</b></summary>
+
+<br/>
+
+**🤖 AI & Automation**
+- [Just Enjoy](https://www.rodrigonegrete.es/just-enjoy/) — hyperautomation travel planner · `n8n (27 nodes)` `GPT-4.1` `Next.js` · [repo](https://github.com/Ronegret/Justenjoy_tfm)
+- [Iberdata](https://www.rodrigonegrete.es/iberdata/) — AI Center-of-Excellence business case · `n8n` `RAG` `Playwright`
+- [AIbueno](https://aibueno.es) — boutique AI agency · [repo](https://github.com/Ronegret/aibueno)
+- [Alto Foco Studio](https://altofoco.rodd.es) — AI lead-gen platform
+- [ZODI BTO](https://www.rodrigonegrete.es/zodi-bto/) — first conversational ZODI prototype · `Botpress`
+- [Dedícalo](https://www.rodrigonegrete.es/dedicalo/) — AI-personalized songs · `Suno/Udio`
+- [Invitoo](https://github.com/Ronegret/invitoo) — AI wedding invitations · `React` `Supabase`
+
+**🎨 UX/UI Case Studies**
+- [ParaTuMundo](https://www.rodrigonegrete.es/paratumundo/) — marketplace UX strategy · `research` `personas` `Figma`
+- [Te Atiendo](https://www.rodrigonegrete.es/te-atiendo/) — restaurant service UX · `Figma`
+- [Aquae](https://www.rodrigonegrete.es/aquae/) — water-saving gamified app
+
+**🧪 Lab & Web experiments**
+- [Vortex Immersive](https://vortex.rodd.es) — interactive 3D at 60 fps · `WebGL`
+- [La Óptica Online](https://laopticaonline.rodd.es) — e-commerce CRO prototype
+- [Jukaa Tattoo](https://jukaatattoo.rodd.es) · [Ink Madrid](https://inkmadrid.rodd.es) · [Ink BCN](https://inkbcn.rodd.es) — studio sites
+
+**🖐️ Branding & Physical**
+- Travel of Vapers — brand identity & packaging · [case study](https://www.rodrigonegrete.es/travel-of-vapers/)
+- Tomapoly — physical board game · [case study](https://www.rodrigonegrete.es/tomapoly/)
+
+</details>
+
 <div align="center">
-<sub>More: <a href="https://github.com/Ronegret/aibueno">AIbueno</a> · <a href="https://github.com/Ronegret/invitoo">Invitoo</a> · <a href="https://github.com/Ronegret/Justenjoy_tfm">Just Enjoy (TFM)</a> · <a href="https://github.com/Ronegret/EstudioCCSE">Estudio CCSE</a> · and more on <a href="https://www.rodrigonegrete.es">rodrigonegrete.es</a></sub>
+<sub>📂 Full portfolio with visuals & case studies → <a href="https://www.rodrigonegrete.es">rodrigonegrete.es</a></sub>
 </div>
 
 ---
@@ -108,12 +138,27 @@ Browser PDF editor — edit, sign, highlight & compress, 100% client-side.
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" />
+<img src="https://img.shields.io/badge/Botpress-000000?style=flat-square&logo=botpress&logoColor=white" />
+<img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
 
 **Design · Front-end · Back-end**
 <br/>
-<img src="https://skillicons.dev/icons?i=figma,react,nextjs,tailwind,threejs,vite,ts,js,nodejs,supabase,firebase,vercel,python,html,css" />
+<img src="https://skillicons.dev/icons?i=figma,react,nextjs,tailwind,threejs,vite,ts,js,nodejs,supabase,firebase,vercel,python,html,css,angular,vue,wordpress,git,vscode" />
+
+**Analytics · Ops**
+<br/>
+<img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Hotjar-FF3C00?style=flat-square&logo=hotjar&logoColor=white" />
+<img src="https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white" />
+<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" />
 
 </div>
 
