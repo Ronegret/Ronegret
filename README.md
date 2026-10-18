@@ -37,6 +37,9 @@ I design and ship digital products with **AI built into the flow** — from rese
 <!-- ============ FEATURED ============ -->
 ## 📌 Featured Projects
 
+<a href="https://www.rodrigonegrete.es"><img width="100%" src="./assets/cards/portfolio.png" alt="My Portfolio — rodrigonegrete.es" /></a>
+<h3 align="center">🌐 <a href="https://github.com/Ronegret/rn-portfolio-2026">My Portfolio</a> — <a href="https://www.rodrigonegrete.es">rodrigonegrete.es</a></h3>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -88,7 +91,7 @@ Kettlebell coach — a new 10–25 min research-backed workout each day (PWA).<b
 </tr>
 </table>
 
-<h3 align="center">🌐 <a href="https://github.com/Ronegret/rn-portfolio-2026">My Portfolio</a> — <a href="https://www.rodrigonegrete.es">rodrigonegrete.es</a> · also <a href="https://github.com/Ronegret/PDFRodd">PDF Rodd</a> (browser PDF editor)</h3>
+<div align="center"><sub>Also: <a href="https://github.com/Ronegret/PDFRodd">PDF Rodd</a> · <a href="https://github.com/Ronegret/EstudioCCSE">Estudio CCSE</a> · and 20+ more below</sub></div>
 
 <details>
 <summary><b>🧩 More products & lab experiments (20+)</b></summary>
