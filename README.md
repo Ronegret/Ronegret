@@ -52,7 +52,7 @@ Open-source library of web resources — React components, animations & 3D.
 ### 🔮 [ZODI](https://github.com/Ronegret/zodi-pwa)
 AI astral oracle — horoscope, tarot, natal charts & numerology.
 <br/>`Next.js` `Capacitor` `Firebase` `AI`
-<br/>📄 [Case study](https://www.rodrigonegrete.es/zodi/)
+<br/>🌐 [Live](https://zodi.aibueno.es) · 📄 [Case study](https://www.rodrigonegrete.es/zodi/)
 
 </td>
 </tr>
@@ -77,9 +77,10 @@ Real-time multiplayer music game for groups.
 <tr>
 <td width="50%" valign="top">
 
-### 🖼️ [Mirone](https://github.com/Ronegret/Mirone)
-AI profile-picture generator & editor (Gemini 2.5 Flash Image).
-<br/>`React` `TypeScript` `Gemini API`
+### 🤖 [AIbueno](https://github.com/Ronegret/aibueno)
+Boutique AI agency — web, mobile apps & AI agents (Barcelona).
+<br/>`Next.js` `AI`
+<br/>🌐 [Live](https://aibueno.es)
 
 </td>
 <td width="50%" valign="top">
@@ -119,7 +120,6 @@ Source of my portfolio site — multi-theme, animations, i18n.
 - [Just Enjoy](https://www.rodrigonegrete.es/just-enjoy/) — hyperautomation travel planner · `n8n (27 nodes)` `GPT-4.1` `Next.js` · [repo](https://github.com/Ronegret/Justenjoy_tfm)
 - [Iberdata](https://www.rodrigonegrete.es/iberdata/) — AI Center-of-Excellence business case · `n8n` `RAG` `Playwright`
 - [AIbueno](https://aibueno.es) — boutique AI agency · [repo](https://github.com/Ronegret/aibueno)
-- [Alto Foco Studio](https://altofoco.rodd.es) — AI lead-gen platform · [repo](https://github.com/Ronegret/Altofoco)
 - [ZODI BTO](https://www.rodrigonegrete.es/zodi-bto/) — first conversational ZODI prototype · `Botpress`
 - [Dedícalo](https://www.rodrigonegrete.es/dedicalo/) — AI-personalized songs · `Suno/Udio`
 - [Invitoo](https://github.com/Ronegret/invitoo) — AI wedding invitations · `React` `Supabase`
@@ -130,7 +130,8 @@ Source of my portfolio site — multi-theme, animations, i18n.
 - [Aquae](https://www.rodrigonegrete.es/aquae/) — water-saving gamified app
 
 **🧪 Lab & Web experiments**
-- [Vortex Immersive](https://vortex.rodd.es) — interactive 3D at 60 fps · `WebGL` · [repo](https://github.com/Ronegret/vortex)
+- [Vortex](https://vortex.rodd.es) — arcade mini-games portal (precision & reflexes) · [repo](https://github.com/Ronegret/vortex)
+- [Alto Foco](https://altofoco.rodd.es) — photography studio site, Barcelona · [repo](https://github.com/Ronegret/Altofoco)
 - [La Óptica Online](https://laopticaonline.rodd.es) — e-commerce CRO prototype · [repo](https://github.com/Ronegret/laopticaonline)
 - [Jukaa Tattoo](https://jukaatattoo.rodd.es) ([repo](https://github.com/Ronegret/Jukaatattoo)) · [Ink Madrid](https://inkmadrid.rodd.es) ([repo](https://github.com/Ronegret/inkmdrid)) · [Ink BCN](https://inkbcn.rodd.es) ([repo](https://github.com/Ronegret/inkbcn))
 
