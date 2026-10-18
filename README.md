@@ -40,14 +40,14 @@ I design and ship digital products with **AI built into the flow** — from rese
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://rodd.es"><img width="100%" src="https://image.thum.io/get/wait/8/width/800/crop/460/noanimate/https://rodd.es" alt="rodd.es preview" /></a>
+<a href="https://rodd.es"><img width="100%" src="./assets/cards/rodd.png" alt="rodd.es preview" /></a>
 <h3>🗂️ <a href="https://github.com/Ronegret/rodd">rodd.es</a></h3>
 Open-source library of web resources — React components, animations & 3D.<br/>
 <code>React</code> <code>Three.js</code> <code>Framer Motion</code><br/>
 🌐 <b><a href="https://rodd.es">Live demo →</a></b>
 </td>
 <td width="50%" valign="top">
-<a href="https://zodi.aibueno.es"><img width="100%" src="https://image.thum.io/get/wait/8/width/800/crop/460/noanimate/https://zodi.aibueno.es" alt="ZODI preview" /></a>
+<a href="https://zodi.aibueno.es"><img width="100%" src="https://raw.githubusercontent.com/Ronegret/zodi-pwa/main/zodi-home-preview.png" alt="ZODI preview" /></a>
 <h3>🔮 <a href="https://github.com/Ronegret/zodi-pwa">ZODI</a></h3>
 AI astral oracle — horoscope, tarot, natal charts & numerology.<br/>
 <code>Next.js</code> <code>Capacitor</code> <code>Firebase</code> <code>AI</code><br/>
@@ -56,14 +56,14 @@ AI astral oracle — horoscope, tarot, natal charts & numerology.<br/>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://aem.rodd.es"><img width="100%" src="https://image.thum.io/get/wait/8/width/800/crop/460/noanimate/https://aem.rodd.es" alt="AEM Planner preview" /></a>
+<a href="https://aem.rodd.es"><img width="100%" src="https://raw.githubusercontent.com/Ronegret/AEM_Planner/main/planneraem.png" alt="AEM Planner preview" /></a>
 <h3>💍 <a href="https://github.com/Ronegret/AEM_Planner">AEM Planner</a></h3>
 Wedding-planner web app — ops panel, couple portal, offline-first.<br/>
 <code>PWA</code> <code>Supabase</code> <code>offline-first</code><br/>
 🌐 <b><a href="https://aem.rodd.es">Live demo →</a></b>
 </td>
 <td width="50%" valign="top">
-<a href="https://play.dedicalo.es"><img width="100%" src="https://image.thum.io/get/wait/8/width/800/crop/460/noanimate/https://play.dedicalo.es" alt="Dedícalo Play preview" /></a>
+<a href="https://play.dedicalo.es"><img width="100%" src="https://raw.githubusercontent.com/Ronegret/playdedicalo/main/public/images/hero-how-to-play.png" alt="Dedícalo Play preview" /></a>
 <h3>🎵 <a href="https://github.com/Ronegret/playdedicalo">Dedícalo Play</a></h3>
 Real-time multiplayer music game for groups.<br/>
 <code>React</code> <code>Supabase</code> <code>AI</code><br/>
