@@ -95,9 +95,10 @@ Browser PDF editor — edit, sign, highlight & compress, 100% client-side.
 <tr>
 <td width="50%" valign="top">
 
-### 🧊 [Kettelbro](https://github.com/Ronegret/kettelbro)
-Product in development — modern web app.
+### 🏋️ [Kettelbro](https://github.com/Ronegret/kettelbro)
+Kettlebell training coach — a new 10–25 min research-backed workout every day (PWA).
 <br/>`Next.js` `TypeScript` `Firebase`
+<br/>🌐 [Live](https://kettellbro.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -152,24 +153,37 @@ Source of my portfolio site — multi-theme, animations, i18n.
 
 <div align="center">
 
-**AI & Automation**
+**🤖 AI & Automation**
 <br/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" />
 <img src="https://img.shields.io/badge/Botpress-000000?style=flat-square&logo=botpress&logoColor=white" />
 <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Suno-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Midjourney-000000?style=flat-square&logo=midjourney&logoColor=white" />
 
-**Design · Front-end · Back-end**
+**🎨 Design**
 <br/>
-<img src="https://skillicons.dev/icons?i=figma,react,nextjs,tailwind,threejs,vite,ts,js,nodejs,supabase,firebase,vercel,python,html,css,angular,vue,wordpress,git,vscode" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Spline-000000?style=flat-square&logo=spline&logoColor=white" />
 
-**Analytics · Ops**
+**💻 Front-end · Back-end · Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,threejs,vite,angular,vue,html,css,nodejs,supabase,firebase,gcp,vercel,wordpress,python,git,vscode" />
+
+**📊 Analytics · Ops**
 <br/>
 <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -187,6 +201,10 @@ Source of my portfolio site — multi-theme, animations, i18n.
 ## 📊 GitHub Activity
 
 <div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Ronegret&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+<br/><br/>
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ronegret&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronegret&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
