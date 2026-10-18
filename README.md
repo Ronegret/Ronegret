@@ -43,7 +43,7 @@ I design and ship digital products with **AI built into the flow** — from rese
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://rodd.es"><img width="100%" src="./assets/cards/rodd.png" alt="rodd.es preview" /></a>
+<a href="https://rodd.es"><img width="100%" src="https://raw.githubusercontent.com/Ronegret/rn-portfolio-2026/main/public/assets/rodd-es/rodd-hero-og.jpg" alt="rodd.es preview" /></a>
 <h3>🗂️ <a href="https://github.com/Ronegret/rodd">rodd.es</a></h3>
 Open-source library of web resources — React components, animations & 3D.<br/>
 <code>React</code> <code>Three.js</code> <code>Framer Motion</code><br/>
@@ -75,7 +75,7 @@ Real-time multiplayer music game for groups.<br/>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://aibueno.es"><img width="100%" src="./assets/cards/aibueno.png" alt="AIbueno preview" /></a>
+<a href="https://aibueno.es"><img width="100%" src="https://raw.githubusercontent.com/Ronegret/rn-portfolio-2026/main/public/assets/aibueno-preview.png" alt="AIbueno preview" /></a>
 <h3>🤖 <a href="https://github.com/Ronegret/aibueno">AIbueno</a></h3>
 Boutique AI agency — web, mobile apps & AI agents (Barcelona).<br/>
 <code>Next.js</code> <code>AI</code><br/>
@@ -193,6 +193,10 @@ Kettlebell coach — a new 10–25 min research-backed workout each day (PWA).<b
     </td>
   </tr>
 </table>
+
+<div align="center">
+<img width="98%" src="https://raw.githubusercontent.com/Ronegret/Ronegret/output/snake.svg" alt="contribution snake animation" />
+</div>
 
 ---
 
