@@ -70,7 +70,7 @@ Wedding-planner web app — ops panel, couple portal, offline-first.
 ### 🎵 [Dedícalo Play](https://github.com/Ronegret/playdedicalo)
 Real-time multiplayer music game for groups.
 <br/>`React` `Supabase` `AI`
-<br/>🌐 [Live](https://play.dedicalo.es)
+<br/>🌐 [Live](https://play.dedicalo.es) · 📄 [Case study](https://www.rodrigonegrete.es/dedicalo-play/)
 
 </td>
 </tr>
@@ -87,6 +87,24 @@ AI profile-picture generator & editor (Gemini 2.5 Flash Image).
 ### 📄 [PDF Rodd](https://github.com/Ronegret/PDFRodd)
 Browser PDF editor — edit, sign, highlight & compress, 100% client-side.
 <br/>`pdf.js` `pdf-lib` `Fabric.js`
+<br/>🌐 [Live](https://rodrigonegrete.es/pdf-rodd/) · 📄 [Case study](https://www.rodrigonegrete.es/pdf-rodd/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧊 [Kettelbro](https://github.com/Ronegret/kettelbro)
+Product in development — modern web app.
+<br/>`Next.js` `TypeScript` `Firebase`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [My Website](https://github.com/Ronegret/rn-portfolio-2026)
+Source of my portfolio site — multi-theme, animations, i18n.
+<br/>`Vite` `HTML/CSS/JS`
+<br/>🌐 [Live](https://www.rodrigonegrete.es)
 
 </td>
 </tr>
@@ -101,7 +119,7 @@ Browser PDF editor — edit, sign, highlight & compress, 100% client-side.
 - [Just Enjoy](https://www.rodrigonegrete.es/just-enjoy/) — hyperautomation travel planner · `n8n (27 nodes)` `GPT-4.1` `Next.js` · [repo](https://github.com/Ronegret/Justenjoy_tfm)
 - [Iberdata](https://www.rodrigonegrete.es/iberdata/) — AI Center-of-Excellence business case · `n8n` `RAG` `Playwright`
 - [AIbueno](https://aibueno.es) — boutique AI agency · [repo](https://github.com/Ronegret/aibueno)
-- [Alto Foco Studio](https://altofoco.rodd.es) — AI lead-gen platform
+- [Alto Foco Studio](https://altofoco.rodd.es) — AI lead-gen platform · [repo](https://github.com/Ronegret/Altofoco)
 - [ZODI BTO](https://www.rodrigonegrete.es/zodi-bto/) — first conversational ZODI prototype · `Botpress`
 - [Dedícalo](https://www.rodrigonegrete.es/dedicalo/) — AI-personalized songs · `Suno/Udio`
 - [Invitoo](https://github.com/Ronegret/invitoo) — AI wedding invitations · `React` `Supabase`
@@ -112,9 +130,9 @@ Browser PDF editor — edit, sign, highlight & compress, 100% client-side.
 - [Aquae](https://www.rodrigonegrete.es/aquae/) — water-saving gamified app
 
 **🧪 Lab & Web experiments**
-- [Vortex Immersive](https://vortex.rodd.es) — interactive 3D at 60 fps · `WebGL`
-- [La Óptica Online](https://laopticaonline.rodd.es) — e-commerce CRO prototype
-- [Jukaa Tattoo](https://jukaatattoo.rodd.es) · [Ink Madrid](https://inkmadrid.rodd.es) · [Ink BCN](https://inkbcn.rodd.es) — studio sites
+- [Vortex Immersive](https://vortex.rodd.es) — interactive 3D at 60 fps · `WebGL` · [repo](https://github.com/Ronegret/vortex)
+- [La Óptica Online](https://laopticaonline.rodd.es) — e-commerce CRO prototype · [repo](https://github.com/Ronegret/laopticaonline)
+- [Jukaa Tattoo](https://jukaatattoo.rodd.es) ([repo](https://github.com/Ronegret/Jukaatattoo)) · [Ink Madrid](https://inkmadrid.rodd.es) ([repo](https://github.com/Ronegret/inkmdrid)) · [Ink BCN](https://inkbcn.rodd.es) ([repo](https://github.com/Ronegret/inkbcn))
 
 **🖐️ Branding & Physical**
 - Travel of Vapers — brand identity & packaging · [case study](https://www.rodrigonegrete.es/travel-of-vapers/)
