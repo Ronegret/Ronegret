@@ -47,7 +47,7 @@ Open-source library of web resources — React components, animations & 3D.<br/>
 🌐 <b><a href="https://rodd.es">Live demo →</a></b>
 </td>
 <td width="50%" valign="top">
-<a href="https://zodi.aibueno.es"><img width="100%" src="https://raw.githubusercontent.com/Ronegret/zodi-pwa/main/zodi-home-preview.png" alt="ZODI preview" /></a>
+<a href="https://zodi.aibueno.es"><img width="100%" src="./assets/cards/zodi.png" alt="ZODI preview" /></a>
 <h3>🔮 <a href="https://github.com/Ronegret/zodi-pwa">ZODI</a></h3>
 AI astral oracle — horoscope, tarot, natal charts & numerology.<br/>
 <code>Next.js</code> <code>Capacitor</code> <code>Firebase</code> <code>AI</code><br/>
@@ -72,14 +72,14 @@ Real-time multiplayer music game for groups.<br/>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://aibueno.es"><img width="100%" src="https://image.thum.io/get/wait/8/width/800/crop/460/noanimate/https://aibueno.es" alt="AIbueno preview" /></a>
+<a href="https://aibueno.es"><img width="100%" src="./assets/cards/aibueno.png" alt="AIbueno preview" /></a>
 <h3>🤖 <a href="https://github.com/Ronegret/aibueno">AIbueno</a></h3>
 Boutique AI agency — web, mobile apps & AI agents (Barcelona).<br/>
 <code>Next.js</code> <code>AI</code><br/>
 🌐 <b><a href="https://aibueno.es">Live demo →</a></b>
 </td>
 <td width="50%" valign="top">
-<a href="https://kettellbro.vercel.app"><img width="100%" src="https://image.thum.io/get/wait/8/width/800/crop/460/noanimate/https://kettellbro.vercel.app" alt="Kettelbro preview" /></a>
+<a href="https://kettellbro.vercel.app"><img width="100%" src="https://raw.githubusercontent.com/Ronegret/kettelbro/main/public/screenshots/hoy-wide.png" alt="Kettelbro preview" /></a>
 <h3>🏋️ <a href="https://github.com/Ronegret/kettelbro">Kettelbro</a></h3>
 Kettlebell coach — a new 10–25 min research-backed workout each day (PWA).<br/>
 <code>Next.js</code> <code>TypeScript</code> <code>Firebase</code><br/>
