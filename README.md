@@ -75,14 +75,14 @@ Real-time multiplayer music game for groups.<br/>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://aibueno.es"><img width="100%" src="https://raw.githubusercontent.com/Ronegret/rn-portfolio-2026/main/public/assets/aibueno-preview.png" alt="AIbueno preview" /></a>
+<a href="https://aibueno.es"><img width="100%" src="./assets/cards/aibueno.png" alt="AIbueno preview" /></a>
 <h3>🤖 <a href="https://github.com/Ronegret/aibueno">AIbueno</a></h3>
 Boutique AI agency — web, mobile apps & AI agents (Barcelona).<br/>
 <code>Next.js</code> <code>AI</code><br/>
 🌐 <b><a href="https://aibueno.es">Live demo →</a></b>
 </td>
 <td width="50%" valign="top">
-<a href="https://kettellbro.vercel.app"><img width="100%" src="https://raw.githubusercontent.com/Ronegret/kettelbro/main/public/screenshots/hoy-wide.png" alt="Kettelbro preview" /></a>
+<a href="https://kettellbro.vercel.app"><img width="100%" src="./assets/cards/kettelbro.png" alt="Kettelbro preview" /></a>
 <h3>🏋️ <a href="https://github.com/Ronegret/kettelbro">Kettelbro</a></h3>
 Kettlebell coach — a new 10–25 min research-backed workout each day (PWA).<br/>
 <code>Next.js</code> <code>TypeScript</code> <code>Firebase</code><br/>
