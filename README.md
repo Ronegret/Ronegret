@@ -88,7 +88,6 @@ Kettlebell coach — a new 10–25 min research-backed workout each day (PWA).<b
 </tr>
 </table>
 
-<a href="https://www.rodrigonegrete.es"><img width="100%" src="https://image.thum.io/get/wait/8/width/1200/crop/380/noanimate/https://www.rodrigonegrete.es" alt="Portfolio rodrigonegrete.es" /></a>
 <h3 align="center">🌐 <a href="https://github.com/Ronegret/rn-portfolio-2026">My Portfolio</a> — <a href="https://www.rodrigonegrete.es">rodrigonegrete.es</a> · also <a href="https://github.com/Ronegret/PDFRodd">PDF Rodd</a> (browser PDF editor)</h3>
 
 <details>
@@ -191,10 +190,6 @@ Kettlebell coach — a new 10–25 min research-backed workout each day (PWA).<b
     </td>
   </tr>
 </table>
-
-<div align="center">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ronegret&bg_color=0D1117&color=8B5CF6&line=00D4FF&point=ffffff&area=true&hide_border=true" alt="activity graph" />
-</div>
 
 ---
 
