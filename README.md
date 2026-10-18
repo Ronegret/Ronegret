@@ -40,76 +40,56 @@ I design and ship digital products with **AI built into the flow** — from rese
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🗂️ [rodd.es](https://github.com/Ronegret/rodd)
-Open-source library of web resources — React components, animations & 3D.
-<br/>`React` `Three.js` `Framer Motion`
-<br/>🌐 **[Live](https://rodd.es)**
-
+<a href="https://rodd.es"><img width="100%" src="https://image.thum.io/get/width/800/crop/460/noanimate/https://rodd.es" alt="rodd.es preview" /></a>
+<h3>🗂️ <a href="https://github.com/Ronegret/rodd">rodd.es</a></h3>
+Open-source library of web resources — React components, animations & 3D.<br/>
+<code>React</code> <code>Three.js</code> <code>Framer Motion</code><br/>
+🌐 <b><a href="https://rodd.es">Live demo →</a></b>
 </td>
 <td width="50%" valign="top">
-
-### 🔮 [ZODI](https://github.com/Ronegret/zodi-pwa)
-AI astral oracle — horoscope, tarot, natal charts & numerology.
-<br/>`Next.js` `Capacitor` `Firebase` `AI`
-<br/>🌐 **[Live](https://zodi.aibueno.es)**
-
+<a href="https://zodi.aibueno.es"><img width="100%" src="https://image.thum.io/get/width/800/crop/460/noanimate/https://zodi.aibueno.es" alt="ZODI preview" /></a>
+<h3>🔮 <a href="https://github.com/Ronegret/zodi-pwa">ZODI</a></h3>
+AI astral oracle — horoscope, tarot, natal charts & numerology.<br/>
+<code>Next.js</code> <code>Capacitor</code> <code>Firebase</code> <code>AI</code><br/>
+🌐 <b><a href="https://zodi.aibueno.es">Live demo →</a></b>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 💍 [AEM Planner](https://github.com/Ronegret/AEM_Planner)
-Wedding-planner web app — ops panel, couple portal, offline-first.
-<br/>`PWA` `Supabase` `offline-first`
-<br/>🌐 **[Live](https://aem.rodd.es)**
-
+<a href="https://aem.rodd.es"><img width="100%" src="https://image.thum.io/get/width/800/crop/460/noanimate/https://aem.rodd.es" alt="AEM Planner preview" /></a>
+<h3>💍 <a href="https://github.com/Ronegret/AEM_Planner">AEM Planner</a></h3>
+Wedding-planner web app — ops panel, couple portal, offline-first.<br/>
+<code>PWA</code> <code>Supabase</code> <code>offline-first</code><br/>
+🌐 <b><a href="https://aem.rodd.es">Live demo →</a></b>
 </td>
 <td width="50%" valign="top">
-
-### 🎵 [Dedícalo Play](https://github.com/Ronegret/playdedicalo)
-Real-time multiplayer music game for groups.
-<br/>`React` `Supabase` `AI`
-<br/>🌐 **[Live](https://play.dedicalo.es)**
-
+<a href="https://play.dedicalo.es"><img width="100%" src="https://image.thum.io/get/width/800/crop/460/noanimate/https://play.dedicalo.es" alt="Dedícalo Play preview" /></a>
+<h3>🎵 <a href="https://github.com/Ronegret/playdedicalo">Dedícalo Play</a></h3>
+Real-time multiplayer music game for groups.<br/>
+<code>React</code> <code>Supabase</code> <code>AI</code><br/>
+🌐 <b><a href="https://play.dedicalo.es">Live demo →</a></b>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🤖 [AIbueno](https://github.com/Ronegret/aibueno)
-Boutique AI agency — web, mobile apps & AI agents (Barcelona).
-<br/>`Next.js` `AI`
-<br/>🌐 **[Live](https://aibueno.es)**
-
+<a href="https://aibueno.es"><img width="100%" src="https://image.thum.io/get/width/800/crop/460/noanimate/https://aibueno.es" alt="AIbueno preview" /></a>
+<h3>🤖 <a href="https://github.com/Ronegret/aibueno">AIbueno</a></h3>
+Boutique AI agency — web, mobile apps & AI agents (Barcelona).<br/>
+<code>Next.js</code> <code>AI</code><br/>
+🌐 <b><a href="https://aibueno.es">Live demo →</a></b>
 </td>
 <td width="50%" valign="top">
-
-### 🏋️ [Kettelbro](https://github.com/Ronegret/kettelbro)
-Kettlebell coach — a new 10–25 min research-backed workout every day (PWA).
-<br/>`Next.js` `TypeScript` `Firebase`
-<br/>🌐 **[Live](https://kettellbro.vercel.app)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📄 [PDF Rodd](https://github.com/Ronegret/PDFRodd)
-Browser PDF editor — edit, sign, highlight & compress, 100% client-side.
-<br/>`pdf.js` `pdf-lib` `Fabric.js`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [My Website](https://github.com/Ronegret/rn-portfolio-2026)
-Source of my portfolio — multi-theme, animations, i18n.
-<br/>`Vite` `HTML/CSS/JS`
-<br/>🌐 **[Live](https://www.rodrigonegrete.es)**
-
+<a href="https://kettellbro.vercel.app"><img width="100%" src="https://image.thum.io/get/width/800/crop/460/noanimate/https://kettellbro.vercel.app" alt="Kettelbro preview" /></a>
+<h3>🏋️ <a href="https://github.com/Ronegret/kettelbro">Kettelbro</a></h3>
+Kettlebell coach — a new 10–25 min research-backed workout each day (PWA).<br/>
+<code>Next.js</code> <code>TypeScript</code> <code>Firebase</code><br/>
+🌐 <b><a href="https://kettellbro.vercel.app">Live demo →</a></b>
 </td>
 </tr>
 </table>
+
+<a href="https://www.rodrigonegrete.es"><img width="100%" src="https://image.thum.io/get/width/1200/crop/380/noanimate/https://www.rodrigonegrete.es" alt="Portfolio rodrigonegrete.es" /></a>
+<h3 align="center">🌐 <a href="https://github.com/Ronegret/rn-portfolio-2026">My Portfolio</a> — <a href="https://www.rodrigonegrete.es">rodrigonegrete.es</a> · also <a href="https://github.com/Ronegret/PDFRodd">PDF Rodd</a> (browser PDF editor)</h3>
 
 <details>
 <summary><b>🧩 More products & lab experiments (20+)</b></summary>

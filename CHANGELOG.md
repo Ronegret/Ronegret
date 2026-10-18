@@ -4,6 +4,11 @@ Registro de cambios de la organización y mejora del GitHub de Rodrigo Negrete.
 
 ## 2026-10-18
 
+### Galería visual
+- Destacados rediseñados como galería con capturas en vivo (thum.io) de cada proyecto + banner del portfolio.
+- Estudiados perfiles top de GitHub 2026 (project cards con imagen) y aplicado el patrón visual.
+
+
 ### Perfil (Ronegret/Ronegret)
 - README de perfil profesional: banner animado propio (`assets/banner.gif`), typing SVG, sobre mí, proyectos destacados, stack e stats.
 - Paleta de marca morado/cian (#8B5CF6 / #00D4FF) en banner y tarjetas de stats.
