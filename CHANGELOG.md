@@ -5,7 +5,7 @@ Registro de cambios de la organización y mejora del GitHub de Rodrigo Negrete.
 ## 2026-10-23
 
 ### Destacados y metadatos
-- Añadidos a destacados: Capsule Corp (db.rodrigonegrete.es) y Events Planner (antes AEM Planner).
+- Destacados: añadido Capsule Corp (db.rodrigonegrete.es); Events Planner sustituye a AEM Planner, que deja de mostrarse (repo AEM_Planner pasado a privado).
 - Repos actualizados con descripción, topics y homepage: dragonball_porfolio_RN, claude-skills, rn-portfolio-2026 (Astro) y Ronegret.
 
 ## 2026-10-18

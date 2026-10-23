@@ -59,9 +59,9 @@ AI astral oracle — horoscope, tarot, natal charts & numerology.<br/>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://aem.rodd.es"><img width="100%" src="https://raw.githubusercontent.com/Ronegret/AEM_Planner/main/planneraem.png" alt="AEM Planner preview" /></a>
-<h3>💍 <a href="https://github.com/Ronegret/AEM_Planner">AEM Planner</a></h3>
-Wedding-planner web app — ops panel, couple portal, offline-first.<br/>
+<a href="https://aem.rodd.es"><img width="100%" src="https://raw.githubusercontent.com/Ronegret/rn-portfolio-2026/main/public/assets/events-planner/screens/desktop-login.webp" alt="Events Planner preview" /></a>
+<h3>💍 <a href="https://aem.rodd.es">Events Planner</a></h3>
+Operating system for weddings &amp; events — planner portal, couple view, offline-first.<br/>
 <code>PWA</code> <code>Supabase</code> <code>offline-first</code><br/>
 🌐 <b><a href="https://aem.rodd.es">Live demo →</a></b>
 </td>
@@ -90,19 +90,12 @@ Kettlebell coach — a new 10–25 min research-backed workout each day (PWA).<b
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 <a href="https://db.rodrigonegrete.es"><img width="100%" src="https://raw.githubusercontent.com/Ronegret/rn-portfolio-2026/main/public/assets/dragonball/db-hero.webp" alt="Capsule Corp preview" /></a>
 <h3>🐉 <a href="https://github.com/Ronegret/dragonball_porfolio_RN">Capsule Corp</a></h3>
 Gamified Dragon Ball Z portfolio — my career as a Saiyan power-up, driven by scroll.<br/>
 <code>React</code> <code>Framer Motion</code> <code>GSAP</code> <code>Lenis</code> <code>Remotion</code><br/>
 🌐 <b><a href="https://db.rodrigonegrete.es">Live demo →</a></b>
-</td>
-<td width="50%" valign="top">
-<a href="https://aem.rodd.es"><img width="100%" src="https://raw.githubusercontent.com/Ronegret/rn-portfolio-2026/main/public/assets/events-planner/screens/desktop-login.webp" alt="Events Planner preview" /></a>
-<h3>💍 <a href="https://aem.rodd.es">Events Planner</a></h3>
-Operating system for weddings &amp; events — planner portal, couple view, offline-first. <sub>(formerly AEM Planner)</sub><br/>
-<code>PWA</code> <code>Supabase</code> <code>offline-first</code><br/>
-🌐 <b><a href="https://aem.rodd.es">Live demo →</a></b>
 </td>
 </tr>
 </table>
