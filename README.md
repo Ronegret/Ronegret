@@ -60,7 +60,7 @@ AI astral oracle — horoscope, tarot, natal charts & numerology.<br/>
 <tr>
 <td width="50%" valign="top">
 <a href="https://aem.rodd.es"><img width="100%" src="https://raw.githubusercontent.com/Ronegret/rn-portfolio-2026/main/public/assets/events-planner/screens/desktop-login.webp" alt="Events Planner preview" /></a>
-<h3>💍 <a href="https://aem.rodd.es">Events Planner</a></h3>
+<h3>💍 <a href="https://github.com/Ronegret/events-planner">Events Planner</a></h3>
 Operating system for weddings &amp; events — planner portal, couple view, offline-first.<br/>
 <code>PWA</code> <code>Supabase</code> <code>offline-first</code><br/>
 🌐 <b><a href="https://aem.rodd.es">Live demo →</a></b>
