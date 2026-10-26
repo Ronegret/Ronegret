@@ -4,7 +4,7 @@
 <img width="100%" src="./assets/banner.gif" alt="Rodrigo Negrete — AI Product Designer" />
 
 <a href="https://github.com/Ronegret">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=640&lines=AI+Product+Designer;Hyperautomation+Architect;UX%2FUI+Designer+%26+Builder;I+ship+products+with+AI+in+the+flow" alt="roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=640&lines=AI+Product+Designer;Automatizaci%C3%B3n+con+IA;UX%2FUI+Designer+%26+Builder;I+ship+products+with+AI+in+the+flow" alt="roles" />
 </a>
 
 <p>
@@ -22,7 +22,7 @@
 
 ```ts
 const rodrigo = {
-  role:     "AI Product Designer & Hyperautomation Architect",
+  role:     "AI Product Designer · UX/UI + automatización con IA",
   based_in: "Barcelona 🇪🇸  ·  open to Remote (EU)",
   does:     ["UX/UI design", "front-end", "AI integration", "automation"],
   from:     "17+ yrs enterprise B2B → UX/UI bootcamp → MSc in AI Agents & Hyperautomation",
