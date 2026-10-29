@@ -25,7 +25,7 @@ const rodrigo = {
   role:     "AI Product Designer · UX/UI + automatización con IA",
   based_in: "Barcelona 🇪🇸  ·  open to Remote (EU)",
   does:     ["UX/UI design", "front-end", "AI integration", "automation"],
-  from:     "17+ yrs enterprise B2B → UX/UI bootcamp → MSc in AI Agents & Hyperautomation",
+  from:     "17 yrs career (11 in B2B telecom) → UX/UI bootcamp → MSc in AI Agents & Hyperautomation",
   motto:    "Ideas → working products, end to end.",
 };
 ```
